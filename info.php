@@ -1,7 +1,7 @@
 <?php
 $nombre_usuario ="warce";
 $clave ="thor2021";
-$base_datos ="socialnet";
+$base_datos ="mediamanager";
 $servidor = "localhost";
 
 $conn = mysqli_connect($servidor,$nombre_usuario,$clave,$base_datos);
